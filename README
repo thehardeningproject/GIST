@@ -1,0 +1,33 @@
+#######################################################
+# Copyright 2023, The HArdening Project               #
+# GIST - Gathering Information and Scanning Tool v0.2 #
+# Written by: Ventre Nicolas                          #
+# URL: https://thehardeningproject.com/gist           #
+# Email: info@thehardeningproject.com                 #
+#######################################################
+
+
+Gist
+
+To download and execute gist, run the commands below:
+
+#!/bin/bash
+
+# wget https://github.com/thehardeningproject/GIST/archive/master.zip
+# unzip GIST-master.zip
+# cd GIST-master/
+# chmod +x install.sh
+# ./install.sh
+
+
+Required Programs
+
+The installation program will download this dependencies:
+
+	Nmap
+	Dnsutils/bind-utils
+	Python36
+	Whois
+
+
+Licensing
